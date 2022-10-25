@@ -2,8 +2,9 @@
   padding: 5px;
   box-sizing: border-box; 
 }
+
 header{
-  background-color: lightgrey;
+  background-color: rgba(233, 243, 243, 0.986);
 }
 
 .logo-text{
@@ -18,4 +19,20 @@ header{
   max-width: 500px;
   margin: 50px auto;
   border-radius: 10px;
+}
+
+ul{
+  display: inline;
+}
+
+ol{
+  list-style: none;
+}
+
+ .special-positive{
+  color: green;
+ }
+
+.special-negative{
+  color: red;
 }
