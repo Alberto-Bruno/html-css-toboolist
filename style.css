@@ -1,13 +1,21 @@
 *{
-  background-color: aliceblue;  
+  padding: 5px;
+  box-sizing: border-box; 
 }
-
-.logo{
-  background-color: white;
+header{
+  background-color: lightgrey;
 }
 
 .logo-text{
   background-color: white;
   font-size: 50px;
   display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  background-color: white;
+  max-width: 500px;
+  margin: 50px auto;
+  border-radius: 10px;
 }
