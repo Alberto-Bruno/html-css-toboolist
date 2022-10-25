@@ -1,0 +1,13 @@
+*{
+  background-color: aliceblue;  
+}
+
+.logo{
+  background-color: white;
+}
+
+.logo-text{
+  background-color: white;
+  font-size: 50px;
+  display: inline;
+}
